@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Dungeon Master",
+  "description": "An immersive, voice-powered AI Dungeon Master for RPG campaigns using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
